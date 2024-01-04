@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/sauravserz" target="blank"><img src="https://img.shields.io/twitter/follow/sauravserz?logo=twitter&style=for-the-badge" alt="sauravserz" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain & Algorthm **
+- 🔭 I’m currently working on **FULL STACK **
 
-- 🌱 I’m currently learning **Unity & open source **
+- 🌱 I’m currently learning **FULL STACK **
 
 - 👯 I’m looking to collaborate on **Open-projects**
 
