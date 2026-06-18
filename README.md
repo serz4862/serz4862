@@ -1,13 +1,13 @@
 <h1 align="center">Hi 🤝, I'm Saurav kumar</h1>
-<h3 align="center">A passionate Software Engineer, AI developer and full stack developer</h3>
+<h3 align="center">A passionate Software Engineer, AI developer, Blockchain and full stack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/sauravserz" target="blank"><img src="https://img.shields.io/twitter/follow/sauravserz?logo=twitter&style=for-the-badge" alt="sauravserz" /></a> </p>
 
 - 🔭 I’m currently working on **FULL STACK && AI ** 
 
-- 🌱 I’m currently learning **FULL STACK  && AI**
+- 🌱 I’m currently working on **FULL STACK, AI && Blockchain**
 
-- 👯 I’m looking to collaborate on **AI-Porjects**
+- 👯 I’m looking to collaborate on **AI-Porjects && Blockchain**
 
 - 💬 Ask me about **Full stack, Blockchain, Artificial intelligence**
 
